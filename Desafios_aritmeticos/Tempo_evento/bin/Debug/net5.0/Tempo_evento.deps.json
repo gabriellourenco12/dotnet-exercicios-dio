@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tempo_evento/1.0.0": {
+        "runtime": {
+          "Tempo_evento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tempo_evento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

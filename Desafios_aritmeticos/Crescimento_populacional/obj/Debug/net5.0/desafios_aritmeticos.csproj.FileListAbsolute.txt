@@ -1,0 +1,16 @@
+C:\Workspace\CSharp\Desafios_aritmeticos\bin\Debug\net5.0\desafios_aritmeticos.exe
+C:\Workspace\CSharp\Desafios_aritmeticos\bin\Debug\net5.0\desafios_aritmeticos.deps.json
+C:\Workspace\CSharp\Desafios_aritmeticos\bin\Debug\net5.0\desafios_aritmeticos.runtimeconfig.json
+C:\Workspace\CSharp\Desafios_aritmeticos\bin\Debug\net5.0\desafios_aritmeticos.runtimeconfig.dev.json
+C:\Workspace\CSharp\Desafios_aritmeticos\bin\Debug\net5.0\desafios_aritmeticos.dll
+C:\Workspace\CSharp\Desafios_aritmeticos\bin\Debug\net5.0\ref\desafios_aritmeticos.dll
+C:\Workspace\CSharp\Desafios_aritmeticos\bin\Debug\net5.0\desafios_aritmeticos.pdb
+C:\Workspace\CSharp\Desafios_aritmeticos\obj\Debug\net5.0\desafios_aritmeticos.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Desafios_aritmeticos\obj\Debug\net5.0\desafios_aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp\Desafios_aritmeticos\obj\Debug\net5.0\desafios_aritmeticos.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Desafios_aritmeticos\obj\Debug\net5.0\desafios_aritmeticos.AssemblyInfo.cs
+C:\Workspace\CSharp\Desafios_aritmeticos\obj\Debug\net5.0\desafios_aritmeticos.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Desafios_aritmeticos\obj\Debug\net5.0\desafios_aritmeticos.dll
+C:\Workspace\CSharp\Desafios_aritmeticos\obj\Debug\net5.0\ref\desafios_aritmeticos.dll
+C:\Workspace\CSharp\Desafios_aritmeticos\obj\Debug\net5.0\desafios_aritmeticos.pdb
+C:\Workspace\CSharp\Desafios_aritmeticos\obj\Debug\net5.0\desafios_aritmeticos.genruntimeconfig.cache

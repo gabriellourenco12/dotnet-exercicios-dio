@@ -1,0 +1,16 @@
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\bin\Debug\net5.0\Tempo_evento.exe
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\bin\Debug\net5.0\Tempo_evento.deps.json
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\bin\Debug\net5.0\Tempo_evento.runtimeconfig.json
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\bin\Debug\net5.0\Tempo_evento.runtimeconfig.dev.json
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\bin\Debug\net5.0\Tempo_evento.dll
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\bin\Debug\net5.0\ref\Tempo_evento.dll
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\bin\Debug\net5.0\Tempo_evento.pdb
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\obj\Debug\net5.0\Tempo_evento.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\obj\Debug\net5.0\Tempo_evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\obj\Debug\net5.0\Tempo_evento.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\obj\Debug\net5.0\Tempo_evento.AssemblyInfo.cs
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\obj\Debug\net5.0\Tempo_evento.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\obj\Debug\net5.0\Tempo_evento.dll
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\obj\Debug\net5.0\ref\Tempo_evento.dll
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\obj\Debug\net5.0\Tempo_evento.pdb
+C:\Workspace\CSharp\Desafios_aritmeticos\Tempo_evento\obj\Debug\net5.0\Tempo_evento.genruntimeconfig.cache
